@@ -1,0 +1,1 @@
+let f _ x = x (*globalsには未対応*)

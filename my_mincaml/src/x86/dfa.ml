@@ -1,0 +1,1 @@
+let f maybe_oc prog = prog
